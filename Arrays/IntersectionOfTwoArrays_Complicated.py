@@ -15,7 +15,6 @@
 # Each element in the result should appear as many times as it shows in both arrays.
 # The result can be in any order.
 
-
 # THIS IS A COMPLICATED APPROACH. REFER TO THE EASY AND BETTER APPROACH IN IntersectionOfTwoArrays_Easy.py
 
 from typing import List
