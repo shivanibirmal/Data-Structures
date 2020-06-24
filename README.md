@@ -20,6 +20,13 @@ This repository contains solved leet code questions for the basic data structure
 15. [Medium - Shuffle an Array](https://github.com/shivanibirmal/Data-Structures/blob/master/Arrays/ShuffleArray.py)
 
 ## Stacks
+1. [Easy - Build an Array With Stack Operations](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/ArrayWithStackOperations.py)
+2. [Medium - Daily Temperatures](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/DailyTemperatures.PY)
+3. [Medium - Decode String](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/DecodeString.py)
+4. [Easy - Min Stack](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/DesignStack.py)
+5. [Medium - Evaluate Reverse Polish Notation](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/EvaluateReversePolishNotation.py)
+6. [Medium - Minimum Remove to Make Valid Parentheses](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/MinimumRemoveToMakeValidParentheses.py)
+7. [Easy - Valid Parentheses](https://github.com/shivanibirmal/Data-Structures/blob/master/Stacks/ValidParenthesis.py)
 
 ## Trees
 
