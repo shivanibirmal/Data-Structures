@@ -22,3 +22,18 @@ This repository contains solved leet code questions for the basic data structure
 ## Stacks
 
 ## Trees
+
+1. [Create a binary tree and print using all DFS traversals](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/CreateBinaryTree.py)
+2. [Medium - Binary Tree Level Order Traversal](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/BinaryTreeLevelOrderTraversal.py)
+3. [Easy - Binary Tree Level Order Traversal II](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/BinaryTreeLevelOrderTraversal_2.py)
+4. [Medium - Binary Tree Right Side View](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/RightSideViewOfBinaryTree.py)
+5. [Medium - Binary Tree Zigzag Level Order Traversal](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/ZigzagLevelOrderTraversal.py)
+6. [Easy - Univalued Binary Tree](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/UnivaluedBinaryTree.py)
+7. [Medium - Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/TreeFromInorderPostorder.py)
+8. [Medium - Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/TreeFromInorderPreorder.py)
+9. [Medium - Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/ConstructFromPreorderPostorder.py)
+10. [Medium - Count Complete Tree Nodes](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/CountCompleteTreeNodes.py)
+11. [Easy - Diameter of Binary Tree](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/DiameterOfBinaryTree.py)
+12. [Easy - Invert Binary Tree](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/InvertTree.py)
+13. [Easy - Symmetric Tree Approach 1](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/SymmetricTree_Approach1.py)
+14. [Easy - Symmetric Tree Approach 3](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/SymmetricTree_Approach3.py)
