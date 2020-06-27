@@ -45,3 +45,4 @@ This repository contains solved leet code questions for the basic data structure
 13. [Easy - Symmetric Tree Approach 1](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/SymmetricTree_Approach1.py)
 14. [Easy - Symmetric Tree Approach 3](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/SymmetricTree_Approach3.py)
 15. [Medium - Find Bottom Left Tree Value](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/FindBottomLeftTreeValue.py)
+16. [Easy - Balanced Binary Tree](https://github.com/shivanibirmal/Data-Structures/blob/master/Trees/BalancedBinaryTree.py)
