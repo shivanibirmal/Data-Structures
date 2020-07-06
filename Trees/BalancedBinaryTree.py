@@ -1,13 +1,6 @@
 # 110. Balanced Binary Tree
 # Easy
-#
-# 2168
-#
-# 165
-#
-# Add to List
-#
-# Share
+
 # Given a binary tree, determine if it is height-balanced.
 #
 # For this problem, a height-balanced binary tree is defined as:
