@@ -38,6 +38,6 @@ class Solution:
         if root == None:
             return 1
         l = self.depth(root.left)
-        r  = self.depth(root.right)
+        r = self.depth(root.right)
 
         return l+r
